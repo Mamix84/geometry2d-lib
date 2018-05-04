@@ -1,0 +1,28 @@
+{
+  "name": "geometry2d-lib",
+  "version": "0.0.1",
+  "description": "Geometry 2D library for basic operation",
+  "main": "index.js",
+  "scripts": {
+    "test": "node tests/test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mamix84/geometry2d-lib.git"
+  },
+  "keywords": [
+    "geometry",
+    "2d",
+    "area",
+    "perimeter"
+  ],
+  "author": "marco.marino",
+  "license": "ISC",
+  "devDependencies": {
+    "tape": "^4.9.0"
+  },
+  "bugs": {
+    "url": "https://github.com/Mamix84/geometry2d-lib/issues"
+  },
+  "homepage": "https://github.com/Mamix84/geometry2d-lib#readme"
+}
