@@ -1,0 +1,19 @@
+{
+    "workbench.iconTheme": "vs-seti",
+    "workbench.colorTheme": "Monokai",
+    "window.zoomLevel": 0,
+    "editor.minimap.enabled": false,
+    "editor.renderIndentGuides": true,
+    "editor.formatOnSave": true,
+    "editor.autoIndent": true,
+    "editor.snippetSuggestions": "top",
+    "search.exclude": {
+        "**/node_modules": true,
+        "**/documentation": true,
+        "**/localDocumentation": true,
+        "**/dist": true,
+        "**/debug": true
+    },
+    "tslint.jsEnable": true,
+    "tslint.autoFixOnSave": true
+ }
